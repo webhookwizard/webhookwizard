@@ -1,30 +1,49 @@
-# Webhook Wizard 🧙
+<p align="center">
+  <img src="banner.png" alt="Webhook Wizard — automation scripts & bots" width="100%">
+</p>
 
-> I build **automation scripts & bots** that save you hours every week.
+<p align="center">
+  <a href="https://x.com/SaulGoodManC99"><img src="https://img.shields.io/badge/available_for_custom_work-brightgreen.svg" alt="Available for custom work"></a>
+  <img src="https://img.shields.io/badge/settles_in-USDT-26A17B.svg" alt="Settles in USDT">
+  <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E5%8F%AF-blue.svg" alt="Chinese OK">
+</p>
 
-[![Available for work](https://img.shields.io/badge/available-for_custom_work-brightgreen.svg)](https://x.com/SaulGoodManC99)
-[![Settles in USDT](https://img.shields.io/badge/settles_in-USDT-26A17B.svg)](https://tether.to/)
+<p align="center"><i>I build <b>automation scripts & bots</b> that save you hours every week.</i></p>
 
-## 🛠 What I ship
+---
 
-- **Efficiency automation** — spreadsheet wrangling, scheduled jobs, cross-platform pipelines
-- **Data & monitoring** — price alerts, change detection, scrapers with polite rate limits
-- **Chat bots** — Telegram / Discord (alerts, moderation, publishing)
+### 🛠️ What I ship
 
-## 📦 Demo projects
+| | Service | Example |
+|---|---|---|
+| ⚡ | **Efficiency automation** | spreadsheet wrangling, scheduled jobs, cross-platform pipelines |
+| 📡 | **Data & monitoring** | price alerts, change detection, polite scrapers |
+| 🤖 | **Chat bots** | Telegram / Discord — alerts, moderation, publishing |
+
+### 📦 Open-source demos
 
 | Project | What it does |
 |---|---|
 | [📡 crypto-price-alert-bot](https://github.com/webhookwizard/crypto-price-alert-bot) | CoinGecko price watcher → Telegram alerts, zero paid APIs |
 | [👀 page-change-monitor](https://github.com/webhookwizard/page-change-monitor) | Watch any URL (or one CSS selector), ping on change |
-| [🗂 x-post-queue](https://github.com/webhookwizard/x-post-queue) | Draft queue + cost-aware poster for X (2026 pay-per-use pricing) |
+| [🗂️ x-post-queue](https://github.com/webhookwizard/x-post-queue) | Draft queue + cost-aware poster for X (2026 pay-per-use pricing) |
 
-## 🧰 Stack
+### 🧰 Stack
 
-Python · REST APIs · Telegram / Discord APIs · BeautifulSoup / Playwright · SQLite · cron / systemd
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/cron-4EAA25?logo=linux&logoColor=white)
 
-## 📬 Work with me
+### ⚙️ How it works
 
-- Custom builds welcome — DM me on X: **[@SaulGoodManC99](https://x.com/SaulGoodManC99)** (中文可)
-- 50% deposit to start, settled in **USDT**
-- 7-day bug-fix warranty on every delivery
+1. **You** describe the repetitive task eating your week
+2. **50% deposit** to start — settled in USDT
+3. **I build & deliver** with setup docs, running in minutes
+4. **7-day bug-fix warranty** on every delivery
+
+### 📬 Contact
+
+- X (building in public): **[@SaulGoodManC99](https://x.com/SaulGoodManC99)**
+- Telegram: **@saulgoodmanc99** — 中文可
